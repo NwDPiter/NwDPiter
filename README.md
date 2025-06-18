@@ -12,7 +12,7 @@
 
 | Area                | Topics / Tools                            | Proficiency Level                      |
 |---------------------|-------------------------------------------|----------------------------------------|
-| **DevOps**          | Docker, K8S, GitHub Actions, CI/CD, Linux , terraform     | Intermediate           |
+| **DevOps**          | Docker, K8S, GitHub Actions, CI/CD, Linux , terraform, zabbix, grafana     | Intermediate           |
 | **Backend**         | Python, FastAPI                                           | Beginner/Intermediate  |
 | **Frontend**        | HTML, CSS, JavaScript                                     | Beginner/Intermediate  |
 | **Cloud & Deploy**  | Azure, AWS, Traefik                                       | Beginner/Intermediate  |
