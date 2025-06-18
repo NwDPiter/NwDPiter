@@ -6,6 +6,26 @@
   </a>
 </p>
 
+👋 Hey, I'm Pedro, but you can call me piter, I'm learning to program now, but I have knowledge of devops, testing, observability and development.
+
+## 🧠 Technical Knowledge
+
+| Area                | Topics / Tools                            | Proficiency Level                      |
+|---------------------|-------------------------------------------|----------------------------------------|
+| **DevOps**          | Docker, K8S, GitHub Actions, CI/CD, Linux , terraform     | Intermediate           |
+| **Backend**         | Python, FastAPI                                           | Beginner/Intermediate  |
+| **Frontend**        | HTML, CSS, JavaScript                                     | Beginner/Intermediate  |
+| **Cloud & Deploy**  | Azure, AWS, Traefik                                       | Beginner/Intermediate  |
+| **Databases**       | PostgreSQL, SQLite                                        | Beginner/Intermediate  |
+| **Tools**           | Git, GitHub, VS Code, N8N                                 | Intermediate/Advanced  |
+
+## 📘 Specific Knowledge
+
+| Topic                 | Context                                                             |
+|-----------------------|---------------------------------------------------------------------|
+| Python                | FastAPI, Playwaright, SqlAlchemy, Pydantic, Alembic, Poetry, Pytest |
+ 
+
 <h1 align="center">* Github Status *<h1/>
 <p align="center"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nwdpiter&show_icons=true&theme=radical&count_private=true&hide=stars"/>
