@@ -8,23 +8,84 @@
 
 👋 Hey, I'm Pedro, but you can call me piter, I'm learning to program now, but I have knowledge of devops, testing, observability and development.
 
-## 🧠 Technical Knowledge
+<h3>🧠 Technical Knowledge</h3>
 
-| Area                | Topics / Tools                            | Proficiency Level                      |
-|---------------------|-------------------------------------------|----------------------------------------|
-| **DevOps**          | Docker, K8S, GitHub Actions, CI/CD, Linux , terraform, zabbix, grafana     | Intermediate           |
-| **Backend**         | Python, FastAPI                                           | Beginner/Intermediate  |
-| **Frontend**        | HTML, CSS, JavaScript                                     | Beginner/Intermediate  |
-| **Cloud & Deploy**  | Azure, AWS, Traefik                                       | Beginner/Intermediate  |
-| **Databases**       | PostgreSQL, SQLite                                        | Beginner/Intermediate  |
-| **Tools**           | Git, GitHub, VS Code, N8N                                 | Intermediate/Advanced  |
+<table width="100%" border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th width="30%">Area</th>
+    <th width="50%">Topics / Tools</th>
+    <th width="20%">Proficiency</th>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Docker, K8S, GitHub Actions, CI/CD, Linux, Terraform, Zabbix, Grafana</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Python, FastAPI</td>
+    <td>Beginner/Intermediate</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>HTML, CSS, JavaScript</td>
+    <td>Beginner/Intermediate</td>
+  </tr>
+  <tr>
+    <td>Cloud & Deploy</td>
+    <td>Azure, AWS, Traefik</td>
+    <td>Beginner/Intermediate</td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>PostgreSQL, SQLite</td>
+    <td>Beginner/Intermediate</td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td>Git, GitHub, VS Code, N8N</td>
+    <td>Intermediate/Advanced</td>
+  </tr>
+</table>
+<br />
 
-## 📘 Specific Knowledge
+<h3>📘 Specific Knowledge</h3>
 
-| Topic                 | Context                                                             |
-|-----------------------|---------------------------------------------------------------------|
-| Python                | FastAPI, Playwaright, SqlAlchemy, Pydantic, Alembic, Poetry, Pytest |
- 
+<table width="100%">
+  <tr>
+    <!-- Specific Knowledge -->
+    <td valign="top" width="60%">
+      <table width="100%" cellspacing="6" cellpadding="6">
+        <tr>
+          <th align="left" width="30%">Topic</th>
+          <th align="left" width="70%">Context</th>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>FastAPI, Playwright, SQLAlchemy, Pydantic, Alembic, Poetry, Pytest</td>
+        </tr>
+        <tr>
+            <td>---</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td>---</td>
+            <td>---</td>
+        </tr>
+      </table>
+    </td>
+    <!-- Espaço invisível -->
+    <td width="5%"></td>
+    <!-- GIF -->
+    <td valign="top" align="center" width="35%">
+      <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="100%" alt="DevOps Banner" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <h1 align="center">* Github Status *<h1/>
 <p align="center"> 
