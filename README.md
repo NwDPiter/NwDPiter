@@ -6,7 +6,8 @@
   </a>
 </p>
 
-<p align="center">
+<h1 align="center">* Github Status *<h1/>
+<p align="center"> 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nwdpiter&show_icons=true&theme=radical&count_private=true&hide=stars"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwdpiter&layout=compact&theme=radical"/>
 </p>
@@ -31,13 +32,11 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwdpiter&theme=radical" />
 </p>
 
----
+
 ## 🛠️ Projects I Worked on as a DevOps
 
 ### 🎨 National Inventory of Museum Cultural Assets (INBCM)
