@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, I'm Piter </h1>
+<h1 align="left">👋 Hey, I'm Pedro </h1>
 
 <p align="left">
   <a href="https://github.com/nwdpiter">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-But can call me piter, I'm learning to program now, but I have knowledge of devops, testing, observability and development.
+👋 But you can call me piter, I'm learning to program now, but I have knowledge of devops, testing, observability and development.
 
 <h3>🧠 Technical Knowledge</h3>
 
@@ -133,5 +133,3 @@ System for the management, consultation, and visualization of Brazilian museum c
 Advanced plugin that extends Tainacan to manage curatorial workflows for cultural institutions, with an emphasis on integration, metadata, and collaboration.
 
 - 🔗 [Obatala Plugin Repository](https://github.com/Nocs-lab/Obatala.git)
-
-
