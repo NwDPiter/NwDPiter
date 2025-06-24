@@ -6,7 +6,7 @@
   </a>
 </p>
 
-👋 Hey, I'm Pedro, but you can call me piter, I'm learning to program now, but I have knowledge of devops, testing, observability and development.
+But can call me piter, I'm learning to program now, but I have knowledge of devops, testing, observability and development.
 
 <h3>🧠 Technical Knowledge</h3>
 
