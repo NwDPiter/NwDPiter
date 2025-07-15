@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>Databases</td>
-    <td>PostgreSQL, SQLite</td>
+    <td>PostgreSQL, Mysql, SQLite</td>
     <td>Beginner/Intermediate</td>
   </tr>
   <tr>
