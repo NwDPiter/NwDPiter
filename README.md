@@ -49,7 +49,7 @@
 </table>
 <br />
 
-<h3>📘 Conhecimento específico</h3>
+<h3>📘 Conhecimento Específico</h3>
 
 <table width="100%">
   <tr>
