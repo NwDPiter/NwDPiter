@@ -62,7 +62,7 @@
         </tr>
         <tr>
           <td>Python</td>
-          <td>FastAPI, Playwright, SQLAlchemy, Pydantic, Alembic, Poetry, Pytest</td>
+          <td>FastAPI, Playwright, SQLAlchemy, Pydantic, Alembic, UV, Pytest</td>
         </tr>
         <tr>
             <td>---</td>
