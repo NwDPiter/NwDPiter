@@ -123,13 +123,22 @@
 ### 🎨 National Inventory of Museum Cultural Assets (INBCM)
 System for the management, consultation, and visualization of Brazilian museum collections, with a focus on preservation and transparency.
 
-- 🔗 [Backend (Node.js + Express)](https://github.com/Nocs-lab/inbcm-backend.git)
-- 🔗 [Admin Frontend (React.js)](https://github.com/Nocs-lab/inbcm-admin-frontend.git)
-- 🔗 [Public Frontend (React.js)](https://github.com/Nocs-lab/inbcm-public-frontend.git)
+#### Contributions
+- 🔗 [Backend](https://github.com/Nocs-lab/inbcm-backend)
+    - [Deployment pipeline](https://github.com/Nocs-lab/inbcm-backend/blob/main/.github/workflows/deploy-backend.yml)
+    - [Testing pipeline](https://github.com/Nocs-lab/inbcm-backend/blob/main/.github/workflows/testes.yml)
+    
+- 🔗 [Admin Frontend](https://github.com/Nocs-lab/inbcm-admin-frontend.git)
+    - [Deployment pipeline](https://github.com/Nocs-lab/inbcm-admin-frontend/blob/main/.github/workflows/deploy-admin.yml)
+    
+- 🔗 [Public Frontend](https://github.com/Nocs-lab/inbcm-public-frontend.git)
+    - [Deployment pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/deploy-public.yml)
+    - [Notify Pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/notify.yml)
 
 ---
 
 ### 📦 Obatala: Curatorial Process Management Plugin for WordPress
 Advanced plugin that extends Tainacan to manage curatorial workflows for cultural institutions, with an emphasis on integration, metadata, and collaboration.
 
+#### Contributions
 - 🔗 [Obatala Plugin Repository](https://github.com/Nocs-lab/Obatala.git)
