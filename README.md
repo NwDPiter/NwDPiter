@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, I'm Pedro </h1>
+<h1 align="left">👋 OI, Eu sou Pedro </h1>
 
 <p align="left">
   <a href="https://github.com/nwdpiter">
@@ -6,9 +6,9 @@
   </a>
 </p>
 
-👋 But you can call me piter, I'm learning about programming languages now, but I have knowledge of devops, testing, observability and development.
+👋 Mas pode me chamar de Piter. Estou aprendendo sobre agentes de IA agora, mas já tenho conhecimento em DevOps, testes, observabilidade e desenvolvimento.
 
-<h3>🧠 Technical Knowledge</h3>
+<h3>🧠 Conhecimento Técnico</h3>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -49,7 +49,7 @@
 </table>
 <br />
 
-<h3>📘 Specific Knowledge</h3>
+<h3>📘 Conhecimento específico</h3>
 
 <table width="100%">
   <tr>
