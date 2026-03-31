@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>Docker, K8S, GitHub Actions, CI/CD, Linux, Terraform, Zabbix, Grafana</td>
+    <td>Docker, K8S, GitHub Actions/Gitlab, CI/CD, Linux, ansible, Zabbix, Grafana</td>
     <td>Intermediate</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Tools</td>
-    <td>Git, GitHub, VS Code, N8N</td>
+    <td>Git, GitHub, VS Code, N8N , K9s</td>
     <td>Intermediate/Advanced</td>
   </tr>
 </table>
