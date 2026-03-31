@@ -135,7 +135,7 @@ Sistema para gestão, consulta e visualização de coleções de museus brasilei
     - [Deployment pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/deploy-public.yml)
     - [Notify Pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/notify.yml)
 
-- Fui responsável por colocar um site governamental no ar
+- Fui responsável por colocar sites governamentais no ar
     - [inventario.museus.gov.br](https://inventario.museus.gov.br/login)
     - [gestao-inventario.museus.gov.br](https://gestao-inventario.museus.gov.br/)
 ---
