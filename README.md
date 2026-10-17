@@ -137,9 +137,10 @@ Sistema para gestão, consulta e visualização de coleções de museus brasilei
     - [Deployment pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/deploy-public.yml)
     - [Notify Pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/notify.yml)
 
-- Fui responsável por colocar sites governamentais no ar
+- Fui responsável por colocar sites Governamentais e de Instituições Federais no Ar:
     - [inventario.museus.gov.br](https://inventario.museus.gov.br/login)
     - [gestao-inventario.museus.gov.br](https://gestao-inventario.museus.gov.br/)
+    - [obatala.nocs.ifrn.edu.br](https://obatala.nocs.ifrn.edu.br/)
 ---
 
 ### 📦 Obatala: Plugin de Gestão de Processos Curatoriais para WordPress
