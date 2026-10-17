@@ -18,12 +18,12 @@
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>Docker, K8S, GitHub Actions/Gitlab, CI/CD, Linux, ansible, Zabbix, Grafana</td>
+    <td>Docker, K8S, K3S, ArgoCD, GitHub Actions/Gitlab-CI/CD, Linux, ansible, Zabbix, Prometheus, NetData, Grafana</td>
     <td>Intermediate</td>
   </tr>
   <tr>
     <td>Backend</td>
-    <td>Python, FastAPI</td>
+    <td>Python, FastAPI, FastMCP</td>
     <td>Beginner/Intermediate</td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>Cloud & Deploy</td>
-    <td>Azure, AWS, Traefik</td>
+    <td>Azure, AWS, GCP, Traefik</td>
     <td>Beginner/Intermediate</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Tools</td>
-    <td>Git, GitHub, VS Code, N8N , K9s</td>
+    <td>Git,VS Code, N8N , K9s</td>
     <td>Intermediate/Advanced</td>
   </tr>
 </table>
@@ -62,11 +62,11 @@
         </tr>
         <tr>
           <td>Python</td>
-          <td>FastAPI, Playwright, SQLAlchemy, Pydantic, Alembic, UV, Pytest</td>
+          <td>FastAPI, FastMCP, Playwright, SQLAlchemy, Pydantic, Alembic, UV, Pytest</td>
         </tr>
         <tr>
-            <td>---</td>
-            <td>---</td>
+            <td>SDD</td>
+            <td>Agent, Harness</td>
         </tr>
         <tr>
             <td>---</td>
@@ -97,11 +97,13 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" title="Argo CD"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" title="Ansible"/>
+  <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" width="40" title="k9s"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
 </p>
 
 <p align="center">
