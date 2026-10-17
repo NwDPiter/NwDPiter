@@ -137,9 +137,10 @@ System for the management, consultation, and visualization of Brazilian museum c
     - [Deployment pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/deploy-public.yml)
     - [Notify Pipeline](https://github.com/Nocs-lab/inbcm-public-frontend/blob/main/.github/workflows/notify.yml)
 
-- I was responsible for putting a government website online.
+- I was responsible for putting a Government and Federal Institute website online.
     - [inventario.museus.gov.br](https://inventario.museus.gov.br/login)
     - [gestao-inventario.museus.gov.br](https://gestao-inventario.museus.gov.br/)
+    - [obatala.nocs.ifrn.edu.br](https://obatala.nocs.ifrn.edu.br/)
 ---
 
 ### 📦 Obatala: Curatorial Process Management Plugin for WordPress
